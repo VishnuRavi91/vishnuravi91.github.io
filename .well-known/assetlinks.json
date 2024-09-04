@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.send2.customer.beta",
+    "sha256_cert_fingerprints":
+    ["B6:C3:C6:47:44:8D:7B:70:27:F0:D8:71:19:31:3A:72:1D:9D:1E:8E:37:72:4B:45:66:9E:AB:67:02:C7:99:71"]
+  }
+}]
