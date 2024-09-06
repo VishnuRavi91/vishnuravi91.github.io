@@ -9,5 +9,15 @@
         "BE:DF:C9:FA:85:76:CA:50:34:B1:DB:48:18:70:7E:07:B3:BD:22:E4:B9:5E:ED:AB:20:91:1E:20:B3:33:7A:91"
       ]
     }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.send2.customer",
+      "sha256_cert_fingerprints": [
+        "46:E7:14:AE:FD:0B:1B:57:7F:E8:8A:30:9E:6F:BD:9D:97:C3:1A:6D:10:B8:41:04:74:34:A6:ED:C7:11:66:71"
+      ]
+    }
   }
 ]
