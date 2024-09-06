@@ -1,18 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.send2.customer.beta",
-    "sha256_cert_fingerprints":
-    ["B6:C3:C6:47:44:8D:7B:70:27:F0:D8:71:19:31:3A:72:1D:9D:1E:8E:37:72:4B:45:66:9E:AB:67:02:C7:99:71"]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.send2.customer.beta",
+      "sha256_cert_fingerprints": [
+        "B6:C3:C6:47:44:8D:7B:70:27:F0:D8:71:19:31:3A:72:1D:9D:1E:8E:37:72:4B:45:66:9E:AB:67:02:C7:99:71",
+        "BE:DF:C9:FA:85:76:CA:50:34:B1:DB:48:18:70:7E:07:B3:BD:22:E4:B9:5E:ED:AB:20:91:1E:20:B3:33:7A:91"
+      ]
+    }
   }
-}]
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.send2.customer.beta",
-    "sha256_cert_fingerprints":
-    ["BE:DF:C9:FA:85:76:CA:50:34:B1:DB:48:18:70:7E:07:B3:BD:22:E4:B9:5E:ED:AB:20:91:1E:20:B3:33:7A:91"]
-  }
-}]
+]
